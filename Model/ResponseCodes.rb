@@ -1,0 +1,12 @@
+module ResponseCodes
+    ERROR = 1
+    SUCCESS = 2
+    CONNECTION_ERROR = 3
+    FILE_NOT_FOUND = 4
+    FILE_EXISTS = 5
+    DIRECTORY_NOT_FOUND = 6    
+    DIRECTORY_EXISTS = 7
+    USER_NOT_FOUND = 8
+    USER_EXISTS = 9
+    USER_INVALID_PASSWORD = 10
+end
